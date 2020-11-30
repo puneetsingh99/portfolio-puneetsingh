@@ -92,6 +92,7 @@ ul{
     /* margin-bottom: 2rem; */
     padding: 1rem 0.7rem;
     padding-bottom: 2rem;
+    padding-bottom: 3rem;
 }
 .section h1{
     color: var(--primary);
@@ -132,7 +133,6 @@ ul{
     background-color: var(--primary);
     border-top-right-radius: 1.5rem;
     padding: 2rem 1rem;
-    margin-top: 3rem;
 }
 
 .footer .footer-header{
