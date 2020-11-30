@@ -37,7 +37,8 @@ ul{
     padding: 1rem 0rem;
 }
 
-.navigation .brand{
+#link-brand{
+    text-transform: capitalize;
     font-weight: bold;
     font-size: larger;
     color: var(--secondary);
