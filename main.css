@@ -46,6 +46,7 @@ ul{
     margin: 0.4rem;
 }
 
+
 .navigation ul {
     text-align: right;
 }
@@ -103,7 +104,11 @@ ul{
     font-size: large;
     margin-bottom: 1.5rem;
 }
+.tech-logo img{
 
+    width: 56px;
+    margin: 2rem;
+}
 .ow{
     background-color: var(--gray);
 }
