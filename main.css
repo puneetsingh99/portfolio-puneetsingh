@@ -90,6 +90,7 @@ ul{
     margin-top: 1rem;
     /* margin-bottom: 2rem; */
     padding: 1rem 0.7rem;
+    padding-bottom: 2rem;
 }
 .section h1{
     color: var(--primary);
@@ -109,7 +110,7 @@ ul{
     box-sizing: border-box;
     border-radius:0.5rem;
     padding: 0.5rem 0.5rem;
-    font-size: small;
+    font-size: medium;
     border: 2px solid var(--primary);
     
 }
@@ -121,7 +122,6 @@ ul{
 }
 .link-secondary{
     color: var(--primary);
-    margin-bottom: 12rem;
 }
 
 
