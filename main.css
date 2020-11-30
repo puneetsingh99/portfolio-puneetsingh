@@ -40,7 +40,7 @@ ul{
 #link-brand{
     text-transform: capitalize;
     font-weight: bold;
-    font-size: larger;
+    font-size: large;
     color: var(--secondary);
     padding-left:0.8rem;
     margin: 0.4rem;
