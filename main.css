@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root {
+    --primary: #141c3a;;
+    --secondary: #7C3AED;
+    --gray: #F3F4F6;
+    --dark-gray:#6B7280;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    max-width: 600px;
+    margin: auto;
+}
+
+hr{
+    margin: 2rem 0rem;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+}
+
+.active{
+    font-weight: bold;
+}
+/* navigation */
+.navigation{
+    background-color: var(--primary);
+    border-bottom-left-radius: 1.5rem;
+    padding: 1rem 0rem;
+}
+
+.navigation .brand{
+    font-weight: bold;
+    font-size: larger;
+    color: var(--secondary);
+    padding-left:0.8rem;
+}
+
+.navigation ul {
+    text-align: right;
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 0rem 0.8rem;
+    margin: 0px;
+}
+
+.navigation a{
+    color: white;
+    text-transform: uppercase;
+}
+
+/* hero */
+
+.hero{
+    padding: 2rem;
+    padding-top: 4rem;
+}
+
+.hero img{
+    display: block;
+    width: 350px;
+    margin: auto;
+
+}
+
+.hero .hero-heading{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 0.3rem;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+}
+
+.hero .hero-heading .heading-inverted {
+    color: var(--primary);
+}
+
+/* section */
+.section{
+    margin-top: 1rem;
+    /* margin-bottom: 2rem; */
+    padding: 1rem 0.7rem;
+}
+.section h1{
+    color: var(--primary);
+}
+
+.section p{
+    font-size: large;
+    margin-bottom: 1.5rem;
+}
+
+.ow{
+    background-color: var(--gray);
+}
+
+
+.link{
+    box-sizing: border-box;
+    border-radius:0.5rem;
+    padding: 0.5rem 0.5rem;
+    font-size: small;
+    border: 2px solid var(--primary);
+    
+}
+.link-primary{
+    
+    background-color: var(--primary);
+    color: white;
+    
+}
+.link-secondary{
+    color: var(--primary);
+    margin-bottom: 12rem;
+}
+
+
+
+/* footer */
+.footer{
+    background-color: var(--primary);
+    border-top-right-radius: 1.5rem;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+}
+
+.footer .footer-header{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: large;
+    text-align: center;
+    
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+    text-align: center;
+}
+
+.footer li{
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0rem 0.8rem;
+}
+
+.footer a{
+    color: white;
+}
