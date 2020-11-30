@@ -27,6 +27,10 @@ ul{
     margin: 0px;
 }
 
+li{
+    margin: 0px;
+}
+
 .active{
     font-weight: bold;
 }
