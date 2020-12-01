@@ -2,7 +2,7 @@
 
 29 November 2020
 
-Learning Markdown is simple yet a very handy tool for a developer. A well written, neatly presented README can definitely make a Github repo stand out and can be beneficial to a developer . It is very simple and can be learned in a short time...
+Learning Markdown is simple yet a very handy tool for a developer. A well written, neatly presented README can definitely make a Github repo stand out and can be beneficial to a developer in many ways. It is very simple and can be learned in a short time.
 
 ## 1. Headings
 Headings in markdown are similar to headings in HTML but much simple to implement
