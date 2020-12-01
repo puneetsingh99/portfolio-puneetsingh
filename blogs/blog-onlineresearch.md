@@ -1,5 +1,7 @@
 # 2. The skill of doing research online
 
+30 November 2020
+
 The ability to dig through the internet and find the hidden gold of information is a skill which when mastered can pay off tremendously. The patience to read through the threads, forums, articles and getting deep into a topic chasing its trails is a skill which comes in time and if mastered can help in learning any skill.
 
 Like developing any skill one needs to put efforts into it, one needs to spend time doing it regularly.
